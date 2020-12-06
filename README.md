@@ -1,1 +1,2 @@
-The goal of this project is to get to the bottom of the Unix system and learn an important part of the system's API: process creation and synchronization. Executing a command inside a shell implies the creation of a new process, the execution and final state of which will be monitored by the parent process.
+The goal of this project is to get to the bottom of the Unix system and learn an important part of the system's API: process creation and synchronization.
+Executing a command inside a shell implies the creation of a new process, the execution and final state of which will be monitored by the parent process.
